@@ -374,7 +374,7 @@
       }
     ]
   },
-  "used-shop": {
+  "usedShop": {
     "label": "중고샵+중고매장",
     "categoryName": "used-shop",
     "children": [
@@ -628,7 +628,7 @@
       }
     ]
   },
-  "cd-bluelay": {
+  "cdBluelay": {
     "label": "음반+블루레이",
     "categoryName": "cd-bluelay",
     "children": [
