@@ -231,7 +231,7 @@
     "children": [
       {
         "label": "알라딘굿즈",
-        "chidren": [
+        "children": [
           {
             "label": "문구",
             "children": []
@@ -535,7 +535,7 @@
       },
       {
         "label": "중고매장",
-        "chidren": [
+        "children": [
           {
             "label": "서울",
             "children": [
@@ -635,7 +635,7 @@
       {
         "label": "음반",
         "categoryName": "cd",
-        "chidren": [
+        "children": [
           {
             "label": "가요",
             "children": []
