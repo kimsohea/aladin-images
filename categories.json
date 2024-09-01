@@ -1,5 +1,5 @@
-{
-  "books": {
+[
+  {
     "label": "국내도서/외국도서",
     "categoryName": "books",
     "children": [
@@ -225,7 +225,7 @@
       }
     ]
   },
-  "goods": {
+  {
     "label": "알라딘 굿즈",
     "categoryName": "goods",
     "children": [
@@ -374,7 +374,7 @@
       }
     ]
   },
-  "usedShop": {
+  {
     "label": "중고샵+중고매장",
     "categoryName": "used-shop",
     "children": [
@@ -628,7 +628,7 @@
       }
     ]
   },
-  "cdBluelay": {
+  {
     "label": "음반+블루레이",
     "categoryName": "cd-bluelay",
     "children": [
@@ -722,7 +722,7 @@
       }
     ]
   },
-  "library": {
+  {
     "label": "서재",
     "categoryName": "library",
     "children": [
@@ -744,4 +744,4 @@
       }
     ]
   }
-}
+]
