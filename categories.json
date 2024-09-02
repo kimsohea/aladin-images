@@ -10,37 +10,130 @@
           {
             "label": "장르별",
             "children": [
-              "유아",
-              "어린이",
-              "전집/중고전집",
-              "좋은부모",
-              "청소년",
-              "초등학교참고서",
-              "중학교참고서",
-              "고등학교참고서",
-              "여행",
-              "가정/요리/뷰티",
-              "건강/취미/레저",
-              "달력/기타",
-              "잡지",
-              "만화",
-              "고전",
-              "소설/시/희곡",
-              "장르소설",
-              "에세이",
-              "인문학",
-              "사회과학",
-              "역사",
-              "과학",
-              "예술/대중문화",
-              "종교/역학",
-              "경제경영",
-              "자기계발",
-              "외국어",
-              "컴퓨터/모바일",
-              "대학교재",
-              "공무원수험서",
-              "수험서/자격증"
+              {
+                "label": "유아",
+                "children": []
+              },
+              {
+                "label": "어린이",
+                "children": []
+              },
+              {
+                "label": "전집/중고전집",
+                "children": []
+              },
+              {
+                "label": "좋은부모",
+                "children": []
+              },
+              {
+                "label": "청소년",
+                "children": []
+              },
+              {
+                "label": "초등학교참고서",
+                "children": []
+              },
+              {
+                "label": "중학교참고서",
+                "children": []
+              },
+              {
+                "label": "고등학교참고서",
+                "children": []
+              },
+              {
+                "label": "여행",
+                "children": []
+              },
+              {
+                "label": "가정/요리/뷰티",
+                "children": []
+              },
+              {
+                "label": "건강/취미/레저",
+                "children": []
+              },
+              {
+                "label": "달력/기타",
+                "children": []
+              },
+              {
+                "label": "잡지",
+                "children": []
+              },
+              {
+                "label": "만화",
+                "children": []
+              },
+              {
+                "label": "고전",
+                "children": []
+              },
+              {
+                "label": "소설/시/희곡",
+                "children": []
+              },
+              {
+                "label": "장르소설",
+                "children": []
+              },
+              {
+                "label": "에세이",
+                "children": []
+              },
+              {
+                "label": "인문학",
+                "children": []
+              },
+              {
+                "label": "사회과학",
+                "children": []
+              },
+              {
+                "label": "역사",
+                "children": []
+              },
+              {
+                "label": "과학",
+                "children": []
+              },
+              {
+                "label": "예술/대중문화",
+                "children": []
+              },
+              {
+                "label": "종교/역학",
+                "children": []
+              },
+              {
+                "label": "경제경영",
+                "children": []
+              },
+              {
+                "label": "자기계발",
+                "children": []
+              },
+              {
+                "label": "외국어",
+                "children": []
+              },
+              {
+                "label": "컴퓨터/모바일",
+                "children": []
+              },
+              {
+                "label": "대학교재",
+                "children": []
+              },
+              {
+                "label": "공무원수험서",
+                "children": []
+              },
+              {
+                "label": "수험서/자격증",
+                "children": []
+              }
             ]
           },
           {
@@ -76,71 +169,222 @@
           {
             "label": "영미도서",
             "children": [
-              "소설/시/희곡",
-              "ELT/어학/사전",
-              "인문/사회",
-              "경제경영",
-              "종교/명상/점술",
-              "요리",
-              "해외잡지",
-              "역사",
-              "공예/취미/수집",
-              "가정/원예/인테리어",
-              "건강/스포츠",
-              "만화",
-              "청소년",
-              "여행"
+              {
+                "label": "소설/시/희곡",
+                "children": []
+              },
+              {
+                "label": "ELT/어학/사전",
+                "children": []
+              },
+              {
+                "label": "인문/사회",
+                "children": []
+              },
+              {
+                "label": "경제경영",
+                "children": []
+              },
+              {
+                "label": "종교/명상/점술",
+                "children": []
+              },
+              {
+                "label": "요리",
+                "children": []
+              },
+              {
+                "label": "해외잡지",
+                "children": []
+              },
+              {
+                "label": "역사",
+                "children": []
+              },
+              {
+                "label": "공예/취미/수집",
+                "children": []
+              },
+              {
+                "label": "가정/원예/인테리어",
+                "children": []
+              },
+              {
+                "label": "건강/스포츠",
+                "children": []
+              },
+              {
+                "label": "만화",
+                "children": []
+              },
+              {
+                "label": "청소년",
+                "children": []
+              },
+              {
+                "label": "여행",
+                "children": []
+              }
             ]
           },
           {
             "label": "대학교재/전문서",
             "children": [
-              "예술/대중문화",
-              "자연과학",
-              "기술공학",
-              "의학",
-              "컴퓨터",
-              "교육/자료",
-              "건축/디자인",
-              "언어학",
-              "법률",
-              "수험서"
+              {
+                "label": "예술/대중문화",
+                "children": []
+              },
+              {
+                "label": "자연과학",
+                "children": []
+              },
+              {
+                "label": "기술공학",
+                "children": []
+              },
+              {
+                "label": "의학",
+                "children": []
+              },
+              {
+                "label": "컴퓨터",
+                "children": []
+              },
+              {
+                "label": "교육/자료",
+                "children": []
+              },
+              {
+                "label": "건축/디자인",
+                "children": []
+              },
+              {
+                "label": "언어학",
+                "children": []
+              },
+              {
+                "label": "법률",
+                "children": []
+              },
+              {
+                "label": "수험서",
+                "children": []
+              }
             ]
           },
           {
             "label": "기타언어권",
-            "hildren": ["중국 도서", "독일 도서", "스페인 도서"]
+            "children": [
+              {
+                "label": "중국 도서",
+                "children": []
+              },
+              {
+                "label": "독일 도서",
+                "children": []
+              },
+              {
+                "label": "스페인 도서",
+                "children": []
+              }
+            ]
           },
           {
             "label": "어린이",
             "children": [
-              "캐릭터",
-              "그림책",
-              "리더스",
-              "챕터북",
-              "동화책",
-              "오디오북",
-              "어린이사전",
-              "개념학습",
-              "코스북",
-              "영어학습",
-              "교과학습",
-              "미국교과서",
-              "수상작",
-              "제2외국어/이중언어"
+              {
+                "label": "캐릭터",
+                "children": []
+              },
+              {
+                "label": "그림책",
+                "children": []
+              },
+              {
+                "label": "리더스",
+                "children": []
+              },
+              {
+                "label": "챕터북",
+                "children": []
+              },
+              {
+                "label": "동화책",
+                "children": []
+              },
+              {
+                "label": "오디오북",
+                "children": []
+              },
+              {
+                "label": "어린이사전",
+                "children": []
+              },
+              {
+                "label": "개념학습",
+                "children": []
+              },
+              {
+                "label": "코스북",
+                "children": []
+              },
+              {
+                "label": "영어학습",
+                "children": []
+              },
+              {
+                "label": "교과학습",
+                "children": []
+              },
+              {
+                "label": "미국교과서",
+                "children": []
+              },
+              {
+                "label": "수상작",
+                "children": []
+              },
+              {
+                "label": "제2외국어/이중언어",
+                "children": []
+              }
             ]
           },
           {
             "label": "일본도서",
             "children": [
-              "잡지",
-              "코믹",
-              "문학",
-              "실용/취미/생활",
-              "라이트노벨",
-              "어린이",
-              "경제경영",
-              "애니메이션 굿즈"
+              {
+                "label": "잡지",
+                "children": []
+              },
+              {
+                "label": "코믹",
+                "children": []
+              },
+              {
+                "label": "문학",
+                "children": []
+              },
+              {
+                "label": "실용/취미/생활",
+                "children": []
+              },
+              {
+                "label": "라이트노벨",
+                "children": []
+              },
+              {
+                "label": "어린이",
+                "children": []
+              },
+              {
+                "label": "경제경영",
+                "children": []
+              },
+              {
+                "label": "애니메이션 굿즈",
+                "children": []
+              }
             ]
           },
           {
@@ -172,29 +416,94 @@
           {
             "label": "장르",
             "children": [
-              "유아",
-              "어린이",
-              "청소년",
-              "좋은부모",
-              "가정/요리/뷰티",
-              "건강/취미/레저",
-              "여행",
-              "경제경영",
-              "자기계발",
-              "소설/시/희곡",
-              "라이트노벨",
-              "에세이",
-              "인문학",
-              "사회과학",
-              "역사",
-              "예술/대중문화",
-              "과학",
-              "고전",
-              "로맨스",
-              "BL",
-              "판타지/무협",
-              "만화",
-              "오디오북"
+              {
+                "label": "유아",
+                "children": []
+              },
+              {
+                "label": "어린이",
+                "children": []
+              },
+              {
+                "label": "청소년",
+                "children": []
+              },
+              {
+                "label": "가정/요리/뷰티",
+                "children": []
+              },
+              {
+                "label": "건강/취미/레저",
+                "children": []
+              },
+              {
+                "label": "여행",
+                "children": []
+              },
+              {
+                "label": "경제경영",
+                "children": []
+              },
+              {
+                "label": "자기계발",
+                "children": []
+              },
+              {
+                "label": "소설/시/희곡",
+                "children": []
+              },
+              {
+                "label": "라이트노벨",
+                "children": []
+              },
+              {
+                "label": "에세이",
+                "children": []
+              },
+              {
+                "label": "인문학",
+                "children": []
+              },
+              {
+                "label": "사회과학",
+                "children": []
+              },
+              {
+                "label": "역사",
+                "children": []
+              },
+              {
+                "label": "예술/대중문화",
+                "children": []
+              },
+              {
+                "label": "과학",
+                "children": []
+              },
+              {
+                "label": "고전",
+                "children": []
+              },
+              {
+                "label": "로맨스",
+                "children": []
+              },
+              {
+                "label": "BL",
+                "children": []
+              },
+              {
+                "label": "판타지/무협",
+                "children": []
+              },
+              {
+                "label": "만화",
+                "children": []
+              },
+              {
+                "label": "오디오북",
+                "children": []
+              }
             ]
           },
           {
@@ -392,119 +701,413 @@
           {
             "label": "중고 국내도서",
             "children": [
-              "가정/요리/뷰티",
-              "건강/취미/레저",
-              "경제경영",
-              "고전",
-              "과학",
-              "대학교재/전문서적",
-              "만화",
-              "달력/기타",
-              "사회과학",
-              "소설/시/희곡",
-              "수험서/자격증",
-              "어린이",
-              "에세이",
-              "여행",
-              "역사",
-              "예술/대중문화",
-              "외국어",
-              "유아",
-              "인문학",
-              "자기계발",
-              "장르소설",
-              "잡지",
-              "전집/중고전집",
-              "종교/역학",
-              "좋은부모",
-              "청소년",
-              "컴퓨터/모바일",
-              "초등학교참고서",
-              "중학교참고서",
-              "고등학교참고서",
-              "고서/희귀본"
+              {
+                "label": "가정/요리/뷰티",
+                "children": []
+              },
+              {
+                "label": "건강/취미/레저",
+                "children": []
+              },
+              {
+                "label": "경제경영",
+                "children": []
+              },
+              {
+                "label": "고전",
+                "children": []
+              },
+              {
+                "label": "과학",
+                "children": []
+              },
+              {
+                "label": "대학교재/전문서적",
+                "children": []
+              },
+              {
+                "label": "만화",
+                "children": []
+              },
+              {
+                "label": "달력/기타",
+                "children": []
+              },
+              {
+                "label": "사회과학",
+                "children": []
+              },
+              {
+                "label": "소설/시/희곡",
+                "children": []
+              },
+              {
+                "label": "수험서/자격증",
+                "children": []
+              },
+              {
+                "label": "어린이",
+                "children": []
+              },
+              {
+                "label": "에세이",
+                "children": []
+              },
+              {
+                "label": "여행",
+                "children": []
+              },
+              {
+                "label": "역사",
+                "children": []
+              },
+              {
+                "label": "예술/대중문화",
+                "children": []
+              },
+              {
+                "label": "외국어",
+                "children": []
+              },
+              {
+                "label": "유아",
+                "children": []
+              },
+              {
+                "label": "인문학",
+                "children": []
+              },
+              {
+                "label": "자기계발",
+                "children": []
+              },
+              {
+                "label": "장르소설",
+                "children": []
+              },
+              {
+                "label": "잡지",
+                "children": []
+              },
+              {
+                "label": "전집/중고전집",
+                "children": []
+              },
+              {
+                "label": "종교/역학",
+                "children": []
+              },
+              {
+                "label": "좋은부모",
+                "children": []
+              },
+              {
+                "label": "청소년",
+                "children": []
+              },
+              {
+                "label": "컴퓨터/모바일",
+                "children": []
+              },
+              {
+                "label": "초등학교참고서",
+                "children": []
+              },
+              {
+                "label": "중학교참고서",
+                "children": []
+              },
+              {
+                "label": "고등학교참고서",
+                "children": []
+              },
+              {
+                "label": "고서/희귀본",
+                "children": []
+              }
             ]
           },
           {
             "label": "중고 외국도서",
             "children": [
-              "가정/원예/인테리어",
-              "가족/관계",
-              "건강/스포츠",
-              "건축/디자인",
-              "경제경영",
-              "공예/취미/수집",
-              "교육/자료",
-              "기술공학",
-              "달력/다이어리/연감",
-              "만화",
-              "법률",
-              "소설/시/희곡",
-              "수험서",
-              "어린이",
-              "언어학",
-              "에세이",
-              "여행",
-              "역사",
-              "예술/대중문화",
-              "오디오북",
-              "요리",
-              "유머",
-              "의학",
-              "인문/사회",
-              "자기계발",
-              "과학/수학/생태",
-              "전기/자서전",
-              "종교/명상/점술",
-              "청소년",
-              "컴퓨터",
-              "해외잡지",
-              "ELT/어학/사전",
-              "기타 언어권 도서",
-              "일본 도서",
-              "중국 도서",
-              "독일 도서",
-              "스페인 도서",
-              "한국관련도서",
-              "문구/비도서",
-              "고서/희귀본"
+              {
+                "label": "가정/원예/인테리어",
+                "children": []
+              },
+              {
+                "label": "가족/관계",
+                "children": []
+              },
+              {
+                "label": "건강/스포츠",
+                "children": []
+              },
+              {
+                "label": "건축/디자인",
+                "children": []
+              },
+              {
+                "label": "경제경영",
+                "children": []
+              },
+              {
+                "label": "공예/취미/수집",
+                "children": []
+              },
+              {
+                "label": "교육/자료",
+                "children": []
+              },
+              {
+                "label": "기술공학",
+                "children": []
+              },
+              {
+                "label": "달력/다이어리/연감",
+                "children": []
+              },
+              {
+                "label": "만화",
+                "children": []
+              },
+              {
+                "label": "법률",
+                "children": []
+              },
+              {
+                "label": "소설/시/희곡",
+                "children": []
+              },
+              {
+                "label": "수험서",
+                "children": []
+              },
+              {
+                "label": "어린이",
+                "children": []
+              },
+              {
+                "label": "언어학",
+                "children": []
+              },
+              {
+                "label": "에세이",
+                "children": []
+              },
+              {
+                "label": "여행",
+                "children": []
+              },
+              {
+                "label": "역사",
+                "children": []
+              },
+              {
+                "label": "예술/대중문화",
+                "children": []
+              },
+              {
+                "label": "오디오북",
+                "children": []
+              },
+              {
+                "label": "요리",
+                "children": []
+              },
+              {
+                "label": "유머",
+                "children": []
+              },
+              {
+                "label": "의학",
+                "children": []
+              },
+              {
+                "label": "인문/사회",
+                "children": []
+              },
+              {
+                "label": "자기계발",
+                "children": []
+              },
+              {
+                "label": "과학/수학/생태",
+                "children": []
+              },
+              {
+                "label": "전기/자서전",
+                "children": []
+              },
+              {
+                "label": "종교/명상/점술",
+                "children": []
+              },
+              {
+                "label": "청소년",
+                "children": []
+              },
+              {
+                "label": "컴퓨터",
+                "children": []
+              },
+              {
+                "label": "해외잡지",
+                "children": []
+              },
+              {
+                "label": "ELT/어학/사전",
+                "children": []
+              },
+              {
+                "label": "기타 언어권 도서",
+                "children": []
+              },
+              {
+                "label": "일본 도서",
+                "children": []
+              },
+              {
+                "label": "중국 도서",
+                "children": []
+              },
+              {
+                "label": "독일 도서",
+                "children": []
+              },
+              {
+                "label": "스페인 도서",
+                "children": []
+              },
+              {
+                "label": "한국관련도서",
+                "children": []
+              },
+              {
+                "label": "문구/비도서",
+                "children": []
+              },
+              {
+                "label": "고서/희귀본",
+                "children": []
+              }
             ]
           },
           {
             "label": "중고 음반",
             "children": [
-              "가요",
-              "국악",
-              "월드뮤직",
-              "재즈",
-              "종교/명상/기타",
-              "클래식",
-              "팝",
-              "해외구매",
-              "J-Pop",
-              "Lp",
-              "O.S.T."
+              {
+                "label": "가요",
+                "children": []
+              },
+              {
+                "label": "국악",
+                "children": []
+              },
+              {
+                "label": "월드뮤직",
+                "children": []
+              },
+              {
+                "label": "재즈",
+                "children": []
+              },
+              {
+                "label": "종교/명상/기타",
+                "children": []
+              },
+              {
+                "label": "클래식",
+                "children": []
+              },
+              {
+                "label": "팝",
+                "children": []
+              },
+              {
+                "label": "해외구매",
+                "children": []
+              },
+              {
+                "label": "J-Pop",
+                "children": []
+              },
+              {
+                "label": "Lp",
+                "children": []
+              },
+              {
+                "label": "O.S.T.",
+                "children": []
+              }
             ]
           },
           {
             "label": "중고 DVD/블루레이",
             "children": [
-              "드라마/코미디",
-              "박스세트",
-              "블루레이",
-              "TV 시리즈",
-              "제작국가별",
-              "VHS (비디오테이프)",
-              "VCD",
-              "액션/어드벤쳐",
-              "S.F/판타지",
-              "공포/스릴러",
-              "음악DVD",
-              "애니메이션",
-              "유아/아동",
-              "교양/다큐멘터리",
-              "취미/스포츠",
-              "성인"
+              {
+                "label": "드라마/코미디",
+                "children": []
+              },
+              {
+                "label": "박스세트",
+                "children": []
+              },
+              {
+                "label": "블루레이",
+                "children": []
+              },
+              {
+                "label": "TV 시리즈",
+                "children": []
+              },
+              {
+                "label": "제작국가별",
+                "children": []
+              },
+              {
+                "label": "VHS (비디오테이프)",
+                "children": []
+              },
+              {
+                "label": "VCD",
+                "children": []
+              },
+              {
+                "label": "액션/어드벤쳐",
+                "children": []
+              },
+              {
+                "label": "S.F/판타지",
+                "children": []
+              },
+              {
+                "label": "공포/스릴러",
+                "children": []
+              },
+              {
+                "label": "음악DVD",
+                "children": []
+              },
+              {
+                "label": "애니메이션",
+                "children": []
+              },
+              {
+                "label": "유아/아동",
+                "children": []
+              },
+              {
+                "label": "교양/다큐멘터리",
+                "children": []
+              },
+              {
+                "label": "취미/스포츠",
+                "children": []
+              },
+              {
+                "label": "성인",
+                "children": []
+              }
             ]
           },
           {
@@ -548,69 +1151,228 @@
           {
             "label": "서울",
             "children": [
-              "가로수길점",
-              "강남점",
-              "강서홈플러스점",
-              "건대점",
-              "노원역점",
-              "대학로점",
-              "서울대입구역점",
-              "수유점",
-              "신림점",
-              "신촌점",
-              "연신내점",
-              "영등포점",
-              "이수역점",
-              "잠실새내역점",
-              "잠실롯데",
-              "월드타워점",
-              "종로점",
-              "합정점"
+              {
+                "label": "가로수길점",
+                "children": []
+              },
+              {
+                "label": "강남점",
+                "children": []
+              },
+              {
+                "label": "강서홈플러스점",
+                "children": []
+              },
+              {
+                "label": "건대점",
+                "children": []
+              },
+              {
+                "label": "노원역점",
+                "children": []
+              },
+              {
+                "label": "대학로점",
+                "children": []
+              },
+              {
+                "label": "서울대입구역점",
+                "children": []
+              },
+              {
+                "label": "수유점",
+                "children": []
+              },
+              {
+                "label": "신림점",
+                "children": []
+              },
+              {
+                "label": "신촌점",
+                "children": []
+              },
+              {
+                "label": "연신내점",
+                "children": []
+              },
+              {
+                "label": "영등포점",
+                "children": []
+              },
+              {
+                "label": "이수역점",
+                "children": []
+              },
+              {
+                "label": "잠실새내역점",
+                "children": []
+              },
+              {
+                "label": "잠실롯데",
+                "children": []
+              },
+              {
+                "label": "월드타워점",
+                "children": []
+              },
+              {
+                "label": "종로점",
+                "children": []
+              },
+              {
+                "label": "합정점",
+                "children": []
+              }
             ]
           },
           {
             "label": "경기",
             "children": [
-              "동탄점",
-              "동탄2",
-              "하나로마트점",
-              "부천점",
-              "분당서현점",
-              "분당야탑점",
-              "산본점",
-              "수원시청역점",
-              "수원점",
-              "의정부홈플러스점",
-              "일산점",
-              "화정점",
-              "평택점"
+              {
+                "label": "동탄점",
+                "children": []
+              },
+              {
+                "label": "동탄2",
+                "children": []
+              },
+              {
+                "label": "하나로마트점",
+                "children": []
+              },
+              {
+                "label": "부천점",
+                "children": []
+              },
+              {
+                "label": "분당서현점",
+                "children": []
+              },
+              {
+                "label": "분당야탑점",
+                "children": []
+              },
+              {
+                "label": "산본점",
+                "children": []
+              },
+              {
+                "label": "수원시청역점",
+                "children": []
+              },
+              {
+                "label": "수원점",
+                "children": []
+              },
+              {
+                "label": "의정부홈플러스점",
+                "children": []
+              },
+              {
+                "label": "일산점",
+                "children": []
+              },
+              {
+                "label": "화정점",
+                "children": []
+              },
+              {
+                "label": "평택점",
+                "children": []
+              }
             ]
           },
           {
             "label": "광역시 등",
             "children": [
-              "광주상무점",
-              "광주충장로점",
-              "김해점",
-              "대구동성로점",
-              "대구상인점",
-              "대전시청역점",
-              "대전은행점",
-              "동대구역점",
-              "부산경성대점",
-              "부경대역점",
-              "부산덕천점",
-              "부산서면점",
-              "부산센텀점",
-              "울산점",
-              "인천계산점",
-              "인천구월점",
-              "인천송도점",
-              "전주점",
-              "마산합성점",
-              "창원상남점",
-              "천안신불당점",
-              "청주점"
+              {
+                "label": "광주상무점",
+                "children": []
+              },
+              {
+                "label": "광주충장로점",
+                "children": []
+              },
+              {
+                "label": "김해점",
+                "children": []
+              },
+              {
+                "label": "대구동성로점",
+                "children": []
+              },
+              {
+                "label": "대구상인점",
+                "children": []
+              },
+              {
+                "label": "대전시청역점",
+                "children": []
+              },
+              {
+                "label": "대전은행점",
+                "children": []
+              },
+              {
+                "label": "동대구역점",
+                "children": []
+              },
+              {
+                "label": "부산경성대점",
+                "children": []
+              },
+              {
+                "label": "부경대역점",
+                "children": []
+              },
+              {
+                "label": "부산덕천점",
+                "children": []
+              },
+              {
+                "label": "부산서면점",
+                "children": []
+              },
+              {
+                "label": "부산센텀점",
+                "children": []
+              },
+              {
+                "label": "울산점",
+                "children": []
+              },
+              {
+                "label": "인천계산점",
+                "children": []
+              },
+              {
+                "label": "인천구월점",
+                "children": []
+              },
+              {
+                "label": "인천송도점",
+                "children": []
+              },
+              {
+                "label": "전주점",
+                "children": []
+              },
+              {
+                "label": "마산합성점",
+                "children": []
+              },
+              {
+                "label": "창원상남점",
+                "children": []
+              },
+              {
+                "label": "천안신불당점",
+                "children": []
+              },
+              {
+                "label": "청주점",
+                "children": []
+              }
             ]
           },
           {
@@ -703,29 +1465,83 @@
           {
             "label": "블루레이",
             "children": [
-              "3D 블루레이",
-              "공포/스릴러",
-              "다큐멘터리",
-              "드라마/코미디",
-              "애니메이션",
-              "액션/SF",
-              "음악"
+              {
+                "label": "3D 블루레이",
+                "children": []
+              },
+              {
+                "label": "공포/스릴러",
+                "children": []
+              },
+              {
+                "label": "다큐멘터리",
+                "children": []
+              },
+              {
+                "label": "드라마/코미디",
+                "children": []
+              },
+              {
+                "label": "애니메이션",
+                "children": []
+              },
+              {
+                "label": "액션/SF",
+                "children": []
+              },
+              {
+                "label": "음악",
+                "children": []
+              }
             ]
           },
           {
             "label": "DVD",
             "children": [
-              "드라마/코미디",
-              "TV시리즈",
-              "액션/어드벤쳐",
-              "S.F/판타지",
-              "공포/스릴러",
-              "애니메이션",
-              "음악/DVD",
-              "취미/스포츠",
-              "교양/다큐멘터리",
-              "유아/아동",
-              "박스세트"
+              {
+                "label": "드라마/코미디",
+                "children": []
+              },
+              {
+                "label": "TV시리즈",
+                "children": []
+              },
+              {
+                "label": "액션/어드벤쳐",
+                "children": []
+              },
+              {
+                "label": "S.F/판타지",
+                "children": []
+              },
+              {
+                "label": "공포/스릴러",
+                "children": []
+              },
+              {
+                "label": "애니메이션",
+                "children": []
+              },
+              {
+                "label": "음악/DVD",
+                "children": []
+              },
+              {
+                "label": "취미/스포츠",
+                "children": []
+              },
+              {
+                "label": "교양/다큐멘터리",
+                "children": []
+              },
+              {
+                "label": "유아/아동",
+                "children": []
+              },
+              {
+                "label": "박스세트",
+                "children": []
+              }
             ]
           }
         ]
