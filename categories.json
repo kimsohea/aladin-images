@@ -231,6 +231,7 @@
     "children": [
       {
         "label": "알라딘굿즈",
+        "categoryName": "goods",
         "children": [
           {
             "label": "문구",
@@ -300,6 +301,7 @@
       },
       {
         "label": "캐릭터굿즈",
+        "categoryName": "goods",
         "children": [
           {
             "label": "피너츠",
@@ -337,6 +339,7 @@
       },
       {
         "label": "커피",
+        "categoryName": "goods",
         "children": [
           {
             "label": "원두",
@@ -358,18 +361,22 @@
       },
       {
         "label": "베스트셀러",
+        "categoryName": "goods",
         "children": []
       },
       {
         "label": "생활용품연구소",
+        "categoryName": "goods",
         "children": []
       },
       {
         "label": "알라딘 문방구",
+        "categoryName": "goods",
         "children": []
       },
       {
         "label": "굿즈한정할인",
+        "categoryName": "goods",
         "children": []
       }
     ]
@@ -380,6 +387,7 @@
     "children": [
       {
         "label": "온라인 중고샵",
+        "categoryName": "used-shop",
         "children": [
           {
             "label": "중고 국내도서",
@@ -535,6 +543,7 @@
       },
       {
         "label": "중고매장",
+        "categoryName": "used-shop",
         "children": [
           {
             "label": "서울",
@@ -624,6 +633,7 @@
       },
       {
         "label": "우주점",
+        "categoryName": "used-shop",
         "children": []
       }
     ]
@@ -728,6 +738,7 @@
     "children": [
       {
         "label": "서재",
+        "categoryName": "library",
         "children": [
           {
             "label": "알라딘서재",
@@ -740,7 +751,8 @@
         ]
       },
       {
-        "label": "북플"
+        "label": "북플",
+        "categoryName": "library"
       }
     ]
   }
