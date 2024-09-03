@@ -1,0 +1,152 @@
+[
+    {
+        "title": "화제의 책 소식",
+        "type": "common",
+        "children": [
+            {
+                "productNo": "0024",
+                "name": "리아의 나라",
+                "description": "<사람, 장소, 환대> 김현경 강력 추천 ",
+                "imageName": "main_07_01.webp"
+            },
+            {
+                "productNo": "0025",
+                "name": "사춘기라는 우주",
+                "description": "<체리새우: 비밀글입니다> 황영미 작가의 첫 에세이 ",
+                "imageName": "main_07_02.webp"
+            },
+            {
+                "productNo": "0026",
+                "name": "도시 가나다",
+                "description": "도시 속에서 찾아낸 새로운 놀이 ",
+                "imageName": "main_07_03.webp"
+            },
+            {
+                "productNo": "0027",
+                "name": "통찰의 시간",
+                "description": "<일의 격> 신수정이 전하는 555개의 통찰 ",
+                "imageName": "main_07_04.webp"
+            }
+        ]
+    },
+    {
+        "title": "이 주의 사은품",
+        "type": "common",
+        "children": [
+            {
+                "productNo": "0028",
+                "name": "이야기의 핵심",
+                "description": "창작 노트 ",
+                "imageName": "main_08_01.webp"
+            },
+            {
+                "productNo": "0029",
+                "name": "백번 산 고양이 백꼬선생 1",
+                "description": "백꼬 노트 ",
+                "imageName": "main_08_02.webp"
+            },
+            {
+                "productNo": "0030",
+                "name": "좋아하는 것을 발견 하는 법",
+                "description": "노트 패드 ",
+                "imageName": "main_08_03.webp"
+            },
+            {
+                "productNo": "0031",
+                "name": "귀나팔",
+                "description": "워크룸프레스 소설전 + 금속 책갈피 ",
+                "imageName": "main_08_04.webp"
+            }
+        ]
+    },
+    {
+        "title": "정가인하/특가 도서",
+        "type": "bookmark",
+        "children": [
+            {
+                "productNo": "0032",
+                "name": "펭수 컬러링북 + 아르누보 36색",
+                "description": "72% 할인 ",
+                "imageName": "main_09_01.webp"
+            },
+            {
+                "productNo": "0033",
+                "name": "프랑스자수 스티치 200",
+                "description": "3,240원 ",
+                "imageName": "main_09_02.webp"
+            },
+            {
+                "productNo": "0034",
+                "name": "2023 쓰면 쓸수록 돈이 모이는 가계부",
+                "description": "30% 할인 ",
+                "imageName": "main_09_03.webp"
+            },
+            {
+                "productNo": "0035",
+                "name": "기침을 해도 나 혼자 그리고 고양이 한마리",
+                "description": "3,240원 ",
+                "imageName": "main_09_04.webp"
+            }
+        ]
+    },
+    {
+        "title": "이 달의 책",
+        "type": "common",
+        "children": [
+            {
+                "productNo": "0036",
+                "name": "제로 웨이스트 클래스",
+                "description": "9월의 취미책 ",
+                "imageName": "main_10_01.webp"
+            },
+            {
+                "productNo": "0037",
+                "name": "더 쉬운 가성비 집밥",
+                "description": "9월의 요리책 ",
+                "imageName": "main_10_02.webp"
+            },
+            {
+                "productNo": "0038",
+                "name": "잃어버린 시간을 찾아서 11",
+                "description": "마르셀 프루스트 100주기 ",
+                "imageName": "main_10_03.webp"
+            },
+            {
+                "productNo": "0039",
+                "name": "파친코 2",
+                "description": "영화,드라마 원작 도서 총집합",
+                "imageName": "main_10_04.webp"
+            }
+        ]
+    },
+    {
+        "title": "알라딘 ⨉ KBS 최고의 클립",
+        "type": "common",
+        "children": [
+            {
+                "productNo": "0040",
+                "name": "버지니아 울프 북클럽",
+                "description": "자기만의 방에서 그녀를 읽는 시간 ",
+                "imageName": "main_11_01.webp"
+            },
+            {
+                "productNo": "0041",
+                "name": "조선이 본 고려",
+                "description": "조선 역사가들의 고려 열전 ",
+                "imageName": "main_11_02.webp"
+            },
+            {
+                "productNo": "0042",
+                "name": "가짜뉴스의 심리학",
+                "description": "아니라고 생각하지만 나 또한 믿기 쉬운 ",
+                "imageName": "main_11_03.webp"
+            },
+            {
+                "productNo": "0043",
+                "name": "지도자 본색",
+                "description": "혼돈의 시대, 로마인은 누구를 선택했을까? ",
+                "imageName": "main_11_04.webp"
+            }
+        ]
+    }
+]

@@ -1,0 +1,144 @@
+[
+    {
+        "title": "",
+        "children": [
+            {
+                "button": "eBook",
+                "children": [
+                    {
+                        "productNo": "0001",
+                        "name": "불확실성이 지배하는 세계경제를 직시하라",
+                        "description": "자이언트 임팩트 ",
+                        "imageName": "main_01_01.webp"
+                    },
+                    {
+                        "productNo": "0002",
+                        "name": "사회의 금기를 파헤치는 문제적 미스터리",
+                        "description": "우리에게는 비밀이 없다 ",
+                        "imageName": "main_01_02.webp"
+                    },
+                    {
+                        "productNo": "0003",
+                        "name": "귀로도 볼 수 있도록 화면 해설 작가의 세계",
+                        "description": "눈에 선하게 ",
+                        "imageName": "main_01_03.webp"
+                    },
+                    {
+                        "productNo": "0004",
+                        "name": "내부인이지만 외부인으로, 외부인이나 내부인처럼 사는 사람들",
+                        "description": "이국에서 ",
+                        "imageName": "main_01_04.webp"
+                    }
+                ]
+            },
+            {
+                "button": "편집장의 선택",
+                "children": [
+                    {
+                        "productNo": "0005",
+                        "name": "가장 온전한 실비아 플라스",
+                        "description": "실비아 플라스 지음, 진은영 옮김 / 엘리 ",
+                        "imageName": "main_02_01.webp"
+                    },
+                    {
+                        "productNo": "0006",
+                        "name": "분석하고, 모방하고, 넘어서라",
+                        "description": "론 프리드먼 지음, 이수경 옮김 / 어크로스 ",
+                        "imageName": "main_02_02.webp"
+                    },
+                    {
+                        "productNo": "0007",
+                        "name": "다중우주의 나에게 납치된 나, 애플 TV+ 방영 확정",
+                        "description": "블레이크 크라우치 지음, 이은주 옮김 / 푸른숲 ",
+                        "imageName": "main_02_03.webp"
+                    },
+                    {
+                        "productNo": "0008",
+                        "name": "동물의 존재 이유를 묻는 우아한 공방",
+                        "description": "장 뤽 포르케 지음, 야체크 워즈니악 그림, 장한라 옮김 / 서해문집 ",
+                        "imageName": "main_02_04.webp"
+                    }
+                ]
+            },
+            {
+                "button": "알라딘 굿즈",
+                "children": [
+                    {
+                        "productNo": "0009",
+                        "name": "책읽는 스누피 오르골",
+                        "description": "멜로디가 있는 독서시간 ",
+                        "imageName": "main_03_01.webp"
+                    },
+                    {
+                        "productNo": "0010",
+                        "name": "피너츠 스틱형 보조베터리",
+                        "description": "한 손에 쏙 들어오는 슬림한 ",
+                        "imageName": "main_03_02.webp"
+                    },
+                    {
+                        "productNo": "0011",
+                        "name": "코듀로이 스몰 텀블러 백",
+                        "description": "책 한권을 위한 ",
+                        "imageName": "main_03_03.webp"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "",
+        "children": [
+            {
+                "button": "카드리뷰",
+                "children": [
+                    {
+                        "productNo": "",
+                        "name": "나다운 삶을 위한 지적이고 대담한 여정",
+                        "description": " ",
+                        "imageName": "main_12_01.webp"
+                    },
+                    {
+                        "productNo": "",
+                        "name": "제8회 고교생나오키상 수상, 가토 시게아키 소설",
+                        "description": " ",
+                        "imagePath": "main_12_02.webp"
+                    },
+                    {
+                        "productNo": "",
+                        "name": "『시크릿』 의 실제 주인공 밥 프록터 생각의 비밀을 밝히다",
+                        "description": " ",
+                        "imagePath": "main_12_03.webp"
+                    }
+                ]
+            },
+            {
+                "button": "북트레일러",
+                "children": [
+                    {
+                        "productNo": "",
+                        "name": "편견을 깨뜨린 이야기 <날빛둥이가 속삭인다>",
+                        "description": " ",
+                        "imagePath": ""
+                    },
+                    {
+                        "productNo": "",
+                        "name": "명화에서 찾은 삶의 가치, 한 걸음 나아갈 용기",
+                        "description": " ",
+                        "imagePath": ""
+                    }
+                ]
+            },
+            {
+                "button": "알라디너 TV",
+                "children": [
+                    {
+                        "productNo": "",
+                        "name": "벽돌책 다락방의 미친여자 공략법",
+                        "description": "#두근두근알라딘언박싱 #벽돌책읽어보자 #공략법 #실물영접 #책vLog #책추천 #페미니즘 #다락방의미친여자 #함께읽어요 #여성주의책읽기 #더덕단 #북튜버 #북튜브 #정희진 #알라딘서재 #체크인다락방 공쟝쟝 조회수 714",
+                        "imagePath": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

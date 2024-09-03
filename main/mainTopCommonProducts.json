@@ -1,0 +1,92 @@
+[
+    {
+        "title": "추천마법사의 선택",
+        "type": "common",
+        "children": [
+            {
+                "productNo": "0012",
+                "name": "나는 오래된 거리처럼 너를 사랑하고",
+                "description": "진은영이 10년 만에 시집을 출간했다.진은영이 호명해 새롭게 의미를 붙인 ... ",
+                "imageName": "main_04_01.webp"
+            },
+            {
+                "productNo": "0013",
+                "name": "아버지의 해방일지",
+                "description": "정지아의 이 장편소설은 추석연휴와 함께 독자에게 닿기 시작했다. 유시민 ... ",
+                "imageName": "main_04_02.webp"
+            },
+            {
+                "productNo": "0014",
+                "name": "데뷔못하면죽는병걸림굿즈썸네일",
+                "description": "양장본848쪽139*197mm1092g ",
+                "imageName": "main_04_03.webp"
+            },
+            {
+                "productNo": "0015",
+                "name": "세상에서 가장 쉬운 본질육아",
+                "description": "한국인 최초 존스홉킨스 소아정신과 교수이자 의사로서, 지나영은 20년 가까이 수많은 ... ",
+                "imageName": "main_04_04.webp"
+            }
+        ]
+    },
+    {
+        "title": "이달의 추천도서 + 알라딘 사은품",
+        "type": "common",
+        "children": [
+            {
+                "productNo": "0016",
+                "name": "그리고 행복하다는 소식을 들었습니다",
+                "description": "이병률 신작 산문집 ",
+                "imageName": "main_05_01.webp"
+            },
+            {
+                "productNo": "0017",
+                "name": "백 번 산 고양이 백꼬선생 1",
+                "description": "고민을 해결해주세요 ",
+                "imageName": "main_05_02.webp"
+            },
+            {
+                "productNo": "0018",
+                "name": "다락방의 미친 여자",
+                "description": "오래 기다려온 바로 그 책 ",
+                "imageName": "main_05_03.webp"
+            },
+            {
+                "productNo": "0019",
+                "name": "위로의 미술관",
+                "description": "유난히 애쓴 날의 그림들 ",
+                "imageName": "main_05_04.webp"
+            }
+        ]
+    },
+    {
+        "title": "알라딘 스페셜",
+        "type": "common",
+        "children": [
+            {
+                "productNo": "0020",
+                "name": "<슬픈 세상의 기쁜 말> 요시고 리커버",
+                "description": " ",
+                "imageName": "main_06_01.webp"
+            },
+            {
+                "productNo": "0021",
+                "name": "<지구 끝의 온실> 여름 에디션",
+                "description": " ",
+                "imageName": "main_06_02.webp"
+            },
+            {
+                "productNo": "0022",
+                "name": "<영화를 찍으며 생각한 것> 리커버 특별판",
+                "description": " ",
+                "imageName": "main_06_03.webp"
+            },
+            {
+                "productNo": "0023",
+                "name": "<버지니아 울프 전집> 한정판 박스 세트",
+                "description": " ",
+                "imageName": "main_06_04.webp"
+            }
+        ]
+    }
+]
